@@ -4,6 +4,8 @@
 - Create DbContext
 - Run following commands in the Nuget Package Manager
 
-Install-Package Microsoft.EntityFrameworkCore.SQLite –Pre
-Install-Package Microsoft.EntityFrameworkCore.Tools –Pre
+```
+Install-Package Microsoft.EntityFrameworkCore.SQLite â€“Pre
+Install-Package Microsoft.EntityFrameworkCore.Tools â€“Pre
 Add-Migration MyFirstMigration
+```
